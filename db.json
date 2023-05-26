@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dhoni",
+      "sex": "M",
+      "dob": "2018-09-20",
+      "salary": "56000",
+      "department": "Accounts"
+    },
+    {
+      "id": 6,
+      "name": "Dube",
+      "sex": "M",
+      "dob": "1994-07-12",
+      "salary": "90000",
+      "department": "HR"
+    },
+    {
+      "id": 1,
+      "name": "Dhoni",
+      "sex": "M",
+      "dob": "2018-09-20",
+      "salary": "56000",
+      "department": "Accounts"
+    },
+    {
+      "id": 4,
+      "name": "DeshPande",
+      "sex": "M",
+      "dob": "2003-06-19",
+      "salary": "45000",
+      "department": "Sales"
+    },
+    {
+      "id": 6,
+      "name": "Dube",
+      "sex": "M",
+      "dob": "1994-07-12",
+      "salary": "90000",
+      "department": "HR"
+    },
+    {
+      "id": 1,
+      "name": "Dhoni",
+      "sex": "M",
+      "dob": "2018-09-20",
+      "salary": "56000",
+      "department": "Accounts"
+    },
+    {
+      "id": 4,
+      "name": "DeshPande",
+      "sex": "M",
+      "dob": "2003-06-19",
+      "salary": "45000",
+      "department": "Sales"
+    },
+    {
+      "id": 6,
+      "name": "Dube",
+      "sex": "M",
+      "dob": "1994-07-12",
+      "salary": "90000",
+      "department": "HR"
+    }
+  ]
+}
